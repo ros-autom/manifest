@@ -5,6 +5,6 @@
   <remote name="github"
            fetch="https://github.com/" /> 
   
-   <project path="" name="husky_kinetic" remote="github" revision="master" />
+   <project path="husky_kinetic" name="husky_kinetic" remote="github" revision="master" />
   
 </manifest>
