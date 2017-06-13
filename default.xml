@@ -5,6 +5,6 @@
            fetch="https://github.com/" /> 
   
    <project path="husky_kinetic" name="ros-autom/husky_kinetic" remote="github" revision="master" />
-   <project path="github-notes"  name="ros-autom/github-note"   remote="github" revision="greek" />
+   <project path="github-notes"  name="ros-autom/github-notes"   remote="github" revision="greek" />
   
 </manifest>
