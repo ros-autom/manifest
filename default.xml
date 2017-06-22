@@ -8,7 +8,7 @@
   
    <!--ROS Autom forks and custom edits-->
    <project path="src/find-object"  name="ros-autom/find-object"  remote="github" revision="kinetic" />
-   <project path="src/husky_control"  name="ros-autom/husky_control"  remote="github" revision="kinetic" />
+   <project path="src/husky"  name="ros-autom/husky"  remote="github" revision="kinetic" />
    
   
 </manifest>
