@@ -3,14 +3,15 @@
 
   <remote name="github"
            fetch="https://github.com/" /> 
-   <project path="notes/github-notes"  name="ros-autom/github-notes"  remote="github" revision="greek" />
-   <project path="autom-scripts" name="ros-autom/autom-scripts" remote="github" revision="kinetic"/>
+  <project path="notes/github-notes"  name="ros-autom/github-notes"  remote="github" revision="greek" />
+  <project path="autom-scripts" name="ros-autom/autom-scripts" remote="github" revision="kinetic"/>
   
    <!--ROS Autom forks and custom edits-->
-   <project path="src/find-object"  name="ros-autom/find-object"  remote="github" revision="kinetic" />
-   <project path="src/husky"  name="ros-autom/husky"  remote="github" revision="kinetic" />
-   <project path="src/m-explore" name="ros-autom/m-explore" remote="github" revision="kinetic" />
-   <project path="src/navigation" name="ros-autom/navigation" remote="github" revision="kinetic" />
+  <project path="src/find-object"  name="ros-autom/find-object"  remote="github" revision="kinetic" />
+  <project path="src/husky"  name="ros-autom/husky"  remote="github" revision="kinetic" />
+  <project path="src/m-explore" name="ros-autom/m-explore" remote="github" revision="kinetic" />
+  <project path="src/navigation" name="ros-autom/navigation" remote="github" revision="kinetic" />
+  <project path="src/navigation_2d" name="ros-autom/navigation_2d" remote="github" revision="kinetic" />
   
   <!--Upstream sources-->
   <project path="src/mrpt_slam" name="mrpt-ros-pkg/mrpt_slam" remote="github" revision="master" />
