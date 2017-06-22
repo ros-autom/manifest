@@ -7,7 +7,7 @@
    <project path="autom-scripts" name="ros-autom/autom-scripts" remote="github" revision="kinetic"/>
   
    <!--ROS Autom forks and custom edits-->
-   <project path="src/find-object"  name="ros-autom/find-object"  remote="github" revision="kinetic" /
+   <project path="src/find-object"  name="ros-autom/find-object"  remote="github" revision="kinetic" />
    
   
 </manifest>
