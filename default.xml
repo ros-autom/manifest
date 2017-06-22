@@ -12,7 +12,7 @@
   <project path="src/m-explore" name="ros-autom/m-explore" remote="github" revision="kinetic" />
   <project path="src/navigation" name="ros-autom/navigation" remote="github" revision="kinetic" />
   <project path="src/navigation_2d" name="ros-autom/navigation_2d" remote="github" revision="kinetic" />
-  <project path="src/nre_simmultihusky" name=ros-autom/nre_simmultihusky" remote="github" revision="kinetic" />
+  <project path="src/nre_simmultihusky" name="ros-autom/nre_simmultihusky" remote="github" revision="kinetic" />
   
   <!--Upstream sources-->
   <project path="src/mrpt_slam" name="mrpt-ros-pkg/mrpt_slam" remote="github" revision="master" />
