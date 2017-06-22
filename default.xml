@@ -14,4 +14,7 @@
   <!--Upstream sources-->
   <project path="src/mrpt_slam" name="mrpt-ros-pkg/mrpt_slam" remote="github" revision="master" />
   
+  <!--Our custom projects-->
+  <project path="src/mvrobot_description" name="ros-autom/mvrobot_description" remote="github" revision="kinetic" />
+  
 </manifest>
