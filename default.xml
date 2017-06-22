@@ -5,9 +5,17 @@
            fetch="https://github.com/" /> 
   <project path="notes/github-notes"  name="ros-autom/github-notes"  remote="github" revision="greek" />
   
-  <project path="autom-scripts" name="ros-autom/autom-scripts" remote="github" revision="kinetic" />
-  <copyfile src="autom-scripts/IGNOREFILE" dest=".gitignore" />
- 
+  <project path="autom-scripts" name="ros-autom/autom-scripts" remote="github" revision="kinetic" >
+    <copyfile src="build2.sh" dest="build2.sh" />
+    <copyfile src="gazebo_autom_multi_robots.sh" dest="gazebo_autom_multi_robots.sh" />
+    <copyfile src="gazebo_farm.sh" dest="gazebo_farm.sh" />
+    <copyfile src="gazebo_multi_robots.sh" dest="gazebo_multi_robots.sh" />
+    <copyfile src="gazebo_warehouse.sh" dest="gazebo_warehouse.sh" />
+    <copyfile src="run_teleop.sh" dest="run_teleop.sh" />
+    <copyfile src="run_teleop_husky1.sh" dest="run_teleop_husky1.sh" />
+    <copyfile src="run_teleop_husky2.sh" dest="run_teleop_husky2.sh" />
+    <copyfile src="IGNOREFILE" dest=".gitignore" />
+  </project>
   
    <!--ROS Autom forks and custom edits-->
   <project path="src/find-object"  name="ros-autom/find-object"  remote="github" revision="kinetic" />
