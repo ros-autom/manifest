@@ -3,7 +3,8 @@
 
   <remote name="github"
            fetch="https://github.com/" /> 
-   <project path="github-notes"  name="ros-autom/github-notes"   remote="github" revision="greek" />
+   <project path="github-notes"  name="ros-autom/github-notes"  remote="github" revision="greek" />
+   <project path="autom-scripts" name="ros-autom/autom-scripts" remote="github" revision="kinetic"/>
    
   
 </manifest>
