@@ -11,4 +11,7 @@
    <project path="src/husky"  name="ros-autom/husky"  remote="github" revision="kinetic" />
    <project path="src/m-explore" name="ros-autom/m-explore" remote="github" revision="kinetic" />
   
+  <!--Upstream sources-->
+  <project path="src/mrpt_slam" name="mrpt-ros-pkg/mrpt_slam" remote="github" revision="master" />
+  
 </manifest>
