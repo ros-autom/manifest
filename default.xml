@@ -4,7 +4,10 @@
   <remote name="github"
            fetch="https://github.com/" /> 
   <project path="notes/github-notes"  name="ros-autom/github-notes"  remote="github" revision="greek" />
-  <project path="autom-scripts" name="ros-autom/autom-scripts" remote="github" revision="kinetic"/>
+  
+  <project path="autom-scripts" name="ros-autom/autom-scripts" remote="github" revision="kinetic">
+    <copyfile src="IGNOREFILE" dest="../.gitignore" />
+   />
   
    <!--ROS Autom forks and custom edits-->
   <project path="src/find-object"  name="ros-autom/find-object"  remote="github" revision="kinetic" />
