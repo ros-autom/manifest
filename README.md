@@ -13,5 +13,5 @@ Grab our sources:
       
 If,for any reason, you cant download our sources use :
   
-      repo sync --force -sync
+      repo sync --force-sync
 
