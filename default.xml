@@ -15,6 +15,7 @@
     <copyfile src="run_teleop_husky1.sh" dest="run_teleop_husky1.sh" />
     <copyfile src="run_teleop_husky2.sh" dest="run_teleop_husky2.sh" />
     <copyfile src="qt.sh" dest="qt.sh" />
+    <copyfile src="merger.sh" dest="merger.sh" />
     <copyfile src="IGNOREFILE" dest=".gitignore" />
   </project>
   
