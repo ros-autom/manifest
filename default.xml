@@ -17,6 +17,7 @@
     <copyfile src="qt.sh" dest="qt.sh" />
     <copyfile src="merger.sh" dest="merger.sh" />
     <copyfile src="IGNOREFILE" dest=".gitignore" />
+    <copyfile src="gazebo_multihusky_karto.sh" dest="gazebo_multihusky_karto.sh" />
   </project>
   
    <!--ROS Autom forks and custom edits-->
