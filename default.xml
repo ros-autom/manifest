@@ -29,6 +29,7 @@
   <project path="src/nre_simmultihusky" name="ros-autom/nre_simmultihusky" remote="github" revision="kinetic" />
   <project path="src/slam_gmapping" name="ros-autom/slam_gmapping" remote="github" revision="kinetic" />
   <project path="src/actionlib" name="ros-autom/actionlib" remote="github" revision="kinetic" />
+  <project path="android_core" name="ros-autom/android_core" remote="github" revision="kinetic" />
   
   <!--Android interface for ROS operation-->
   <project path="RobotCA" name="ros-autom/RobotCA" remote="github" revision="master" />
