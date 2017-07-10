@@ -29,6 +29,7 @@
   <project path="src/nre_simmultihusky" name="ros-autom/nre_simmultihusky" remote="github" revision="kinetic" />
   <project path="src/slam_gmapping" name="ros-autom/slam_gmapping" remote="github" revision="kinetic" />
   <project path="src/actionlib" name="ros-autom/actionlib" remote="github" revision="kinetic" />
+  <project path="src/mrpt_slam" name="ros-autom/mrpt_slam" remote="github" revision="kinetic" />
   
   <!--Android implementation-->
   <project path="android_core" name="ros-autom/android_core" remote="github" revision="kinetic" />
@@ -38,7 +39,6 @@
   <project path="RobotCA" name="ros-autom/RobotCA" remote="github" revision="master" />
   
   <!--Upstream sources-->
-  <project path="src/mrpt_slam" name="mrpt-ros-pkg/mrpt_slam" remote="github" revision="master" />
   <project path="src/stdr_simulator" name="ros-autom/stdr_simulator" remote="github" revision="indigo-devel" />
   
   <!--Our custom projects-->
