@@ -33,7 +33,7 @@
   <project path="src/usb_cam" name="ros-autom/usb_cam" remote="github" revision="kinetic" />
   
   <!--Android interface for ROS operation-->
-  <project path="RobotCA" name="ros-autom/RobotCA" remote="github" revision="master" />
+  <project path="RobotCA" name="ros-autom/RobotCA" remote="github" revision="kinetic" />
   
   <!--Upstream sources-->
   <project path="src/stdr_simulator" name="ros-autom/stdr_simulator" remote="github" revision="indigo-devel" />
