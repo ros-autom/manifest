@@ -4,7 +4,7 @@ Grab our sources:
 
 1)Initialize our manifest:
 
-    repo init -u git://github.com/ros-autom/manifest.git -b master
+    repo init -u git://github.com/ros-autom/manifest.git -b gmapping
       
 
 2)Download the source code:
