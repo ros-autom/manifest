@@ -24,10 +24,8 @@
   <project path="src/find-object"  name="ros-autom/find-object"  remote="github" revision="kinetic" />
   <project path="src/husky"  name="ros-autom/husky"  remote="github" revision="kinetic" />
   <project path="src/m-explore" name="ros-autom/m-explore" remote="github" revision="kinetic" />
-  <project path="src/navigation" name="ros-autom/navigation" remote="github" revision="kinetic" />
   <project path="src/navigation_2d" name="ros-autom/navigation_2d" remote="github" revision="kinetic" />
   <project path="src/nre_simmultihusky" name="ros-autom/nre_simmultihusky" remote="github" revision="kinetic" />
-  <project path="src/slam_gmapping" name="ros-autom/slam_gmapping" remote="github" revision="kinetic" />
   <project path="src/actionlib" name="ros-autom/actionlib" remote="github" revision="kinetic" />
  
   <!--Android implementation-->
