@@ -7,7 +7,7 @@ Follow the notes descripted at the pdf file in notes/ROS Manual directory
 # ROS-autom team sources 
 ---------------
 
-This section requires the knowledge of ROS basics.
+This section requires the knowledge of **Get familiar with ROS**.
 
 # Grab our sources:
 ---------------
