@@ -2,7 +2,7 @@
 
 # Get familiar with ROS
 
-Follow the notes descripted at the pdf file in notes/ROS Manual directory
+Follow the notes descripted at the pdf file in https://github.com/ros-autom/notes -> ROS Manual directory
 
 # ROS-autom team sources 
 ---------------
