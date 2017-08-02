@@ -17,8 +17,13 @@
     <copyfile src="gazebo_multihusky_karto.sh" dest="gazebo_multihusky_karto.sh" />
   </project>
   
+  <!--Android-->
   <!-- Shell scripts to wrap our custom Android ROS control app -->
-  <project path="android_package" name="ros-autom/android_package" remote="github" revision="kinetic" />
+  <project path="android/android_package" name="ros-autom/android_package" remote="github" revision="kinetic" />
+   <!--Android interface for ROS operation-->
+  <project path="android/RobotCA" name="ros-autom/RobotCA" remote="github" revision="kinetic" />
+  <!--Android core-->
+  <project path="android/android_core" name="ros-autom/android_core" remote="github" revision="kinetic" />
   
    <!--ROS Autom forks and custom edits-->
   <project path="src/find-object"  name="ros-autom/find-object"  remote="github" revision="kinetic" />
@@ -27,13 +32,7 @@
   <project path="src/navigation_2d" name="ros-autom/navigation_2d" remote="github" revision="kinetic" />
   <project path="src/nre_simmultihusky" name="ros-autom/nre_simmultihusky" remote="github" revision="kinetic" />
   <project path="src/actionlib" name="ros-autom/actionlib" remote="github" revision="kinetic" />
- 
-  <!--Android implementation-->
-  <project path="android_core" name="ros-autom/android_core" remote="github" revision="kinetic" />
   <project path="src/usb_cam" name="ros-autom/usb_cam" remote="github" revision="kinetic" />
-  
-  <!--Android interface for ROS operation-->
-  <project path="RobotCA" name="ros-autom/RobotCA" remote="github" revision="kinetic" />
   
   <!--Upstream sources-->
   <project path="src/stdr_simulator" name="ros-autom/stdr_simulator" remote="github" revision="indigo-devel" />
