@@ -31,7 +31,6 @@
   <project path="src/m-explore" name="ros-autom/m-explore" remote="github" revision="kinetic" />
   <project path="src/navigation_2d" name="ros-autom/navigation_2d" remote="github" revision="kinetic" />
   <project path="src/nre_simmultihusky" name="ros-autom/nre_simmultihusky" remote="github" revision="kinetic" />
-  <project path="src/actionlib" name="ros-autom/actionlib" remote="github" revision="kinetic" />
   <project path="src/usb_cam" name="ros-autom/usb_cam" remote="github" revision="kinetic" />
   
   <!--Upstream sources-->
