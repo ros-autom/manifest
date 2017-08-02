@@ -41,7 +41,7 @@
   <!--Upstream sources-->
   <project path="src/stdr_simulator" name="ros-autom/stdr_simulator" remote="github" revision="indigo-devel" />
   <project path="src/teb_local_planner" name="rst-tu-dortmund/teb_local_planner" remote="github" revision="kinetic-devel" />
-  <project path="src/eband_local_planner" name="utexas-bwi/eband_local_planner" remote="github" revision="master" />
+  <project path="src/eband_local_planner" name="gkouros/eband_local_planner" remote="github" revision="master" />
   
   <!--Our custom projects-->
   <project path="src/simple_navigation_goals" name="ros-autom/simple_navigation_goals" remote="github" revision="kinetic" />
