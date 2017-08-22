@@ -26,10 +26,14 @@
   <!--Android-->
   <!-- Shell scripts to wrap our custom Android ROS control app -->
   <project path="android/android_package" name="ros-autom/android_package" />
-   <!--Android interface for ROS operation-->
+   <!--Android interface/app for ROS operation-->
   <project path="android/RobotCA" name="ros-autom/RobotCA" />
   <!--Android core-->
   <project path="android/android_core" name="ros-autom/android_core" />
+	
+  <!--Arduino and RaspberryPi implementation-->
+  <project path="Arduino-ROS" name="ros-autom/Arduino-ROS"  />
+  <project path="RaspberryPi-ROS" name="ros-autom/RaspberryPi-ROS"  />
   
    <!--ROS Autom forks and custom edits-->
   <project path="src/find-object"  name="ros-autom/find-object"  />
@@ -40,10 +44,7 @@
   <project path="src/usb_cam" name="ros-autom/usb_cam"  />
   <project path="src/teb_local_planner" name="ros-autom/teb_local_planner" />
   <project path="src/eband_local_planner" name="ros-autom/eband_local_planner" />
-  <project path="Arduino-ROS" name="ros-autom/Arduino-ROS"  />
-  <project path="RaspberryPi-ROS" name="ros-autom/RaspberryPi-ROS"  />
   <project path="src/depthimage_to_laserscan" name="ros-autom/depthimage_to_laserscan" />
-   <!--Our custom projects-->
   <project path="src/simple_navigation_goals" name="ros-autom/simple_navigation_goals" />
   
    <include name="snippets/upstream.xml" />
