@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+
+	<!--Upstream sources-->
+	<project path="src/stdr_simulator" name="ros-autom/stdr_simulator" remote="github" revision="indigo-devel" />
+	
+</manifest>
