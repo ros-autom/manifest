@@ -36,7 +36,7 @@
   <project path="src/eband_local_planner" name="ros-autom/eband_local_planner" remote="github" revision="kinetic" />
   <project path="Arduino-ROS" name="ros-autom/Arduino-ROS" remote="github" revision="kinetic" />
   <project path="RaspberryPi-ROS" name="ros-autom/RaspberryPi-ROS" remote="github" revision="kinetic" />
-  
+  <project path="src/depthimage_to_laserscan" name="ros-autom/depthimage_to_laserscan" remote="github" revision="kinetic" />
   <!--Upstream sources-->
   <project path="src/stdr_simulator" name="ros-autom/stdr_simulator" remote="github" revision="indigo-devel" />
  
