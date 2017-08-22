@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+
+    <remote  name="github"
+           fetch="https://github.com/"/>
+	   
+   <default revision="refs/heads/kinetic"
+           remote="github"
+           sync-c="true"
+	   sync-j="4" />
+
+  <project path="notes/greek"  name="ros-autom/notes"  revision="greek" />
+  <project path="notes/english"  name="ros-autom/notes"  revision="english" />
+  
+  <project path="autom-scripts" name="ros-autom/autom-scripts">
+    <copyfile src="gazebo_farm.sh" dest="gazebo_farm.sh" />
+    <copyfile src="gazebo_multi_robots.sh" dest="gazebo_multi_robots.sh" />
+    <copyfile src="gazebo_warehouse.sh" dest="gazebo_warehouse.sh" />
+    <copyfile src="run_teleop.sh" dest="run_teleop.sh" />
+    <copyfile src="run_teleop_husky1.sh" dest="run_teleop_husky1.sh" />
+    <copyfile src="run_teleop_husky2.sh" dest="run_teleop_husky2.sh" />
+    <copyfile src="IGNOREFILE" dest=".gitignore" />
+    <copyfile src="gazebo_multihusky_karto.sh" dest="gazebo_multihusky_karto.sh" />
+  </project>
+  
+  
+</manifest>
