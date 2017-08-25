@@ -24,7 +24,6 @@
    <!--ROS Autom forks and custom edits-->
   <project path="src/find-object"  name="ros-autom/find-object"  />
   <project path="src/husky"  name="ros-autom/husky"  />
-  <project path="src/m-explore" name="ros-autom/m-explore" />
   <project path="src/navigation_2d" name="ros-autom/navigation_2d" />
   <project path="src/nre_simmultihusky" name="ros-autom/nre_simmultihusky"  />
   <project path="src/usb_cam" name="ros-autom/usb_cam"  />
