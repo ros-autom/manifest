@@ -59,4 +59,8 @@ Detailed information about android app is located [here](https://github.com/ros-
      
 and follow the instructions
 
+# If you have uninstalled dependencies run in your workspace:
+---------------
+$ rosdep install --from-paths src --ignore-src --rosdistro kinetic -y -r
+
 
