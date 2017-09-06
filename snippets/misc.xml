@@ -21,6 +21,7 @@
     <copyfile src="run_teleop_husky2.sh" dest="run_teleop_husky2.sh" />
     <copyfile src="IGNOREFILE" dest=".gitignore" />
     <copyfile src="gazebo_multihusky_karto.sh" dest="gazebo_multihusky_karto.sh" />
+    <copyfile src="product_qr.sh" dest="product_qr.sh"/>
   </project>
   
   
