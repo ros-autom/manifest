@@ -23,7 +23,7 @@
     <copyfile src="gazebo_multihusky_karto.sh" dest="gazebo_multihusky_karto.sh" />
     <copyfile src="product_qr.sh" dest="product_qr.sh"/>
     <copyfile src="rtabmap_with_find_object.sh"	dest="rtabmap_with_find_object.sh"/>
-    <copyfile src="detect_objects.sh" dest="detect_objects.sh"
+    <copyfile src="detect_objects.sh" dest="detect_objects.sh"/>
   </project>
   
   
