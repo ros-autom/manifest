@@ -32,7 +32,7 @@
   <project path="src/depthimage_to_laserscan" name="ros-autom/depthimage_to_laserscan" />
   <project path="src/simple_navigation_goals" name="ros-autom/simple_navigation_goals" />
   <project path="src/vision_visp" name="ros-autom/vision_visp"/>
-  
+  <project path="src/rtabmap_ros" name="ros-autom/rtabmap_ros"/>
    <include name="snippets/upstream.xml" />
    <include name="snippets/misc.xml" />
 
