@@ -16,6 +16,7 @@
     <copyfile src="gazebo_farm.sh" dest="gazebo_farm.sh" />
     <copyfile src="gazebo_multi_robots.sh" dest="gazebo_multi_robots.sh" />
     <copyfile src="gazebo_warehouse.sh" dest="gazebo_warehouse.sh" />
+    <copyfile src="gazebo_multihusky_karto_android.sh" dest="gazebo_multihusky_karto_android.sh" />
     <copyfile src="run_teleop.sh" dest="run_teleop.sh" />
     <copyfile src="run_teleop_husky1.sh" dest="run_teleop_husky1.sh" />
     <copyfile src="run_teleop_husky2.sh" dest="run_teleop_husky2.sh" />
