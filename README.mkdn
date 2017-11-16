@@ -14,11 +14,11 @@ This section requires the knowledge of **Get familiar with ROS**.
 
 1)Run 
 
-    mkdir -p ~/catkin_ws/src
+    mkdir -p ~/husky_kinetic/src
     
 To create your workspace folder.
 **This is also descripted in the notes file which we will use later**
-
+**Notes' workspace is catkin_ws.Our sources use 'husky_kinetic' as workspace directory**
 2)Initialize our manifest:
 
     repo init -u git://github.com/ros-autom/manifest.git -b master
