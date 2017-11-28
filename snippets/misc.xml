@@ -14,6 +14,9 @@
   
   <project path="autom-scripts" name="ros-autom/autom-scripts">
     <copyfile src="IGNOREFILE" dest=".gitignore" />
+    <copyfile src="run_teleop.sh" dest="teleop.sh" />
+    <copyfile src="gazebo_farm.sh" dest="gazebo_farm.sh" />
+    <copyfile src="gazebo_warehouse.sh" dest="gazebo_warehouse.sh" />
   </project>
  
 </manifest>
