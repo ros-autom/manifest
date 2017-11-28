@@ -8,12 +8,9 @@
            remote="github"
            sync-c="true"
 	   sync-j="4" />
-  
-  <!--Android-->
+	
   <!--Android interface/app for ROS operation-->
   <project path="android/RobotCA" name="ros-autom/RobotCA" />
-  <!--Android core-->
-  <project path="android/android_core" name="ros-autom/android_core" />
 	
   <!--Arduino and RaspberryPi implementation-->
   <project path="Arduino-ROS" name="ros-autom/Arduino-ROS"  />
