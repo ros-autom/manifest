@@ -10,9 +10,7 @@
 	   sync-j="4" />
   
   <!--Android-->
-  <!-- Shell scripts to wrap our custom Android ROS control app -->
-  <project path="android/android_package" name="ros-autom/android_package" />
-   <!--Android interface/app for ROS operation-->
+  <!--Android interface/app for ROS operation-->
   <project path="android/RobotCA" name="ros-autom/RobotCA" />
   <!--Android core-->
   <project path="android/android_core" name="ros-autom/android_core" />
